@@ -9,3 +9,7 @@
 ![Recycle View](https://user-images.githubusercontent.com/80609570/136946658-a27b70b6-0f41-470d-9249-19887de895da.jpeg)
 ![Spinner](https://user-images.githubusercontent.com/80609570/136946665-a638aaee-325d-4e6c-a46e-2827482e77c3.jpeg)
 ![Tampilan Awal](https://user-images.githubusercontent.com/80609570/136946670-88f5461f-3e55-4a19-80b7-85f1a886f0eb.jpeg)
+
+
+![Intent App Home](https://user-images.githubusercontent.com/80609570/137276814-09a34e82-54f0-46cd-bf45-0903c4be9c1c.jpeg)
+![Intent App Setelah submit nama](https://user-images.githubusercontent.com/80609570/137276825-cea7da1e-c7c4-4c4d-965b-45eb678cb4c7.jpeg)
