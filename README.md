@@ -13,3 +13,8 @@
 
 ![Intent App Home](https://user-images.githubusercontent.com/80609570/137276814-09a34e82-54f0-46cd-bf45-0903c4be9c1c.jpeg)
 ![Intent App Setelah submit nama](https://user-images.githubusercontent.com/80609570/137276825-cea7da1e-c7c4-4c4d-965b-45eb678cb4c7.jpeg)
+
+
+![App SQLITE Tampilan Awaal](https://user-images.githubusercontent.com/80609570/138581121-2315a9d7-de04-49b5-8d1f-e51b066c9e5e.jpeg)
+![App SQLITE Tampilan Edit View](https://user-images.githubusercontent.com/80609570/138581124-10b2b0dc-7b16-4402-b498-293b14135e4f.jpeg)
+![App SQLITE Tampilan List View](https://user-images.githubusercontent.com/80609570/138581125-f624af00-b4b0-4d2c-b565-16c5aadc7648.jpeg)
